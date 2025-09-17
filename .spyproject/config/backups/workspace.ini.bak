@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['labC0\\c0-q1.py', 'labC0\\c0-q2.py', 'labC0\\c0-q3.py', 'labC0\\c0-q4.py', 'labC0\\c0-q5.py']
+recent_files = ['labs\\labC2\\c2-q2.py', 'labs\\labC2\\c2-q3.py', 'labs\\labC2\\c2-q4.py']
 
 [main]
 version = 0.2.0

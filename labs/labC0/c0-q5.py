@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 arr = np.loadtxt("fibonacci.txt")
 "print(arr)"
 
-x = np.empty((0))
-y = np.empty((0))
+x = np.empty(0)
+y = np.empty(0)
 
 for coord_pair in arr:
     x = np.append(x,coord_pair[0])
